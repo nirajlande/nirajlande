@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [HealthCare App](https://github.com/meetmandhanemnm/Self_Help_App_for_Mental_Health.git)
 
-- 🌱 I’m currently learning **Design Pattern**
+ 
 
 - 💬 Ask me about **Spring-Boot**
 
